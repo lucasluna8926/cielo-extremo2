@@ -1,0 +1,13 @@
+.atajos:hover{color: #FFC300 !important;
+    scale: 1.1;
+    transition: 0.4s !important ; 
+    transition: linear;
+    border-color: aliceblue !important;
+    }
+    .icon-drive:hover {
+        scale: 1.2;
+        transition:  0.4;
+        transition: linear;
+    }
+
+
